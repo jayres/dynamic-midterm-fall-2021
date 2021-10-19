@@ -1,0 +1,14 @@
+.MonsterCard {
+  padding: 30px;
+}
+.MonsterCard h1 {
+  color: purple;
+  font-size: 60px;
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.Monster {
+  margin: 0 auto;
+  max-width: 400px;
+}
