@@ -7,7 +7,6 @@ function Monster({ monsterSvg }) {
         className="Monster"
         dangerouslySetInnerHTML={{ __html: monsterSvg }}
       />
-      <h1>Cool SVG Monster</h1>
     </section>
   );
 }
